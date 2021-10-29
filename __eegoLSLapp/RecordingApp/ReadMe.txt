@@ -1,0 +1,1 @@
+It's absolutely *crucial* that you use the correct channel-list for your recording. That's exactly what sets the two apps (ImpedanceCheckApp & RecordingApp) apart. 
